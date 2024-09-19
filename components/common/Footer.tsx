@@ -29,7 +29,7 @@ export default async function Footer() {
           ))}
           <div className="flex items-center pb-6">
             <a
-              href={`https://github.com/YourAverageTechBro/social-queue`}
+              href={`https://github.com/afzalimdad9/social-queue`}
               className="text-sm leading-6 flex items-center bg-secondaryBackground-light dark:bg-secondaryBackground-dark rounded-tl-lg rounded-bl-lg p-2"
             >
               <StarIcon className="w-4 h-4" /> Us On Github

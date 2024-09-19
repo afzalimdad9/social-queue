@@ -1,5 +1,5 @@
 <a href="https://socialqueue.ai">
-  <img alt="Social Queue" width=50 src=https://github.com/YourAverageTechBro/social-queue/raw/main/public/logo.png>
+  <img alt="Social Queue" width=50 src=https://github.com/afzalimdad9/social-queue/raw/main/public/logo.png>
   <h1>Social Queue</h1>
 </a>
 
@@ -20,7 +20,6 @@ Social queue currently supports posting to the following social media platforms:
 Upload once to Social Queue and post to as many platforms as you want.
 
 Features on the roadmap:
-
 
 - Instagram carousels
 - TikTok carousel posts

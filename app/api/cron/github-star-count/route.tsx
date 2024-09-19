@@ -37,7 +37,7 @@ export const GET = withAxiom(async (req: AxiomRequest) => {
 
 const refreshGithubStarCount = async (logger: Logger) => {
   const response = await fetch(
-    "https://api.github.com/repos/YourAverageTechBro/social-queue",
+    "https://api.github.com/repos/afzalimdad9/social-queue",
     {
       headers: {
         Accept: "application/vnd.github+json",

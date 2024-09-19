@@ -184,7 +184,7 @@ const OpenSource = () => {
           "We are proud to be an open source project that operates with 100% transparency. You have full access to the code at all times so you know exactly what we're doing."
         }
       />
-      <Button href={"https://github.com/YourAverageTechBro/social-queue"}>
+      <Button href={"https://github.com/afzalimdad9/social-queue"}>
         Check Us Out On Github
       </Button>
     </div>
